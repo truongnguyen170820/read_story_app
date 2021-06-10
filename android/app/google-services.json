@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644048576813",
+    "project_id": "readstory-be2c9",
+    "storage_bucket": "readstory-be2c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644048576813:android:2d633c00e6d7c747f0f3a4",
+        "android_client_info": {
+          "package_name": "com.example.read_story_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644048576813-dctkb5u5lmi60cn7m3nregqi39e6ga9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6wQ1SRm6EzzP2vq_F6EMh-PyAw44DdO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644048576813-dctkb5u5lmi60cn7m3nregqi39e6ga9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
